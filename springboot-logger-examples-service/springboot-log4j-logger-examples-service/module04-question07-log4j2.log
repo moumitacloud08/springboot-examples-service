@@ -1,0 +1,7 @@
+2024-12-25 16:03:25.433  WARN 32788 --- [main] a.s.c                                    : WARNING Message from serviceC
+2024-12-25 16:03:25.437  INFO 32788 --- [main] a.s.d                                    : INFO Message from serviceD
+2024-12-25 16:03:25.437  WARN 32788 --- [main] a.s.d                                    : WARNING Message from serviceD
+2024-12-25 16:03:25.438  INFO 32788 --- [main] a.s.e                                    : INFO Message from serviceE
+2024-12-25 16:03:25.438  WARN 32788 --- [main] a.s.e                                    : WARNING Message from serviceE
+2024-12-25 16:03:25.440  INFO 32788 --- [main] a.s.f                                    : INFO Message from serviceF
+2024-12-25 16:03:25.440  WARN 32788 --- [main] a.s.f                                    : WARNING Message from serviceF
