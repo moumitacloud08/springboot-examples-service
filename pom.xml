@@ -44,5 +44,6 @@
 			springboot-jdbc-datasource-autoconfigure-service
 		</module>
 		<module>springboot-componentscan-service</module>
+		<module>springboot-test-service</module>
 	</modules>
 </project>
