@@ -12,5 +12,6 @@
   <modules>
   	<module>springboot-logback-logger-examples-service</module>
   	<module>springboot-log4j-logger-examples-service</module>
+  	<module>springboot-jul-logger-examples-service</module>
   </modules>
 </project>
