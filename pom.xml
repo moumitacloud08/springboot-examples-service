@@ -45,5 +45,6 @@
 		</module>
 		<module>springboot-componentscan-service</module>
 		<module>springboot-test-service</module>
+		<module>springboot-profile-properties-service</module>
 	</modules>
 </project>
